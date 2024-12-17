@@ -1,0 +1,25 @@
+### [Part 3 | Data Consistency & SAGA](https://drive.google.com/file/d/16cZ0-ZFOwt8QxMpQLkCh2UA4CzGjBRmZ/view?usp=sharing)
+- Review `00:00`
+- Transactions in a Monolith Architecture `04:00`
+- Transactions in a Microservice Pattern `06:00`
+- Real World Example `08:40`
+- SAGA `10:47`
+- Sequence Diagram `24:25`
+- Choreography-based saga `28:40`
+- Orchestration-based saga `29:11`
+- Revert `32:00`
+- Study [2PC](https://microservices.io/patterns/data/saga.html#forces)
+- Event Sourcing `41:00`
+  - Order Example for Event Sourcing `42:00`
+- CQRS (Command Query Responsibility Segregation) `01:01:15`
+- Separate write from read in DB `01:07:05`
+- Replicate in DB `01:08:30`
+  - Eventual Consistency `01:09:45`
+- SQL Proxy `01:11:15`, `01:13:55` [Link](https://proxysql.com/)
+- Multi Master in DB `01:12:00`
+- Designing Data-Intensive Applications **Book** [Link](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+- Database Internals **Book** [Link](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347)
+- Mongodb & Elastic & Sharding `01:19:00`
+- Passing User Data between Services `01:22:10`
+- How companies document technical conventions and contracts? `01:24:15`
+- Q/A

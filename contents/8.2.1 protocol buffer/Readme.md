@@ -1,0 +1,9 @@
+## Week 8 | Friday | 2 AZAR
+### [Part 1 | Protocol Buffer](https://drive.google.com/file/d/1GqMdPhvqqwrto0x-1-TPqwt9P5KjwqBD/view)
+- Event Sourcing vs Event Driven `10:30`
+- Event Driven `11:38`
+- Start of new lesson `13:00`
+- Cons of Http (v1.1) Requests (with JSON body) `16:00`
+- Protocol Buffer & gRPC `19:00`
+- Serialization `20:00`
+- 

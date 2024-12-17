@@ -1,0 +1,17 @@
+### [Part 2 | Outbox & Poller](https://drive.google.com/file/d/1uYRwwlCfcjy8SglEt1g8XirdDK-Yupgx/view)
+- Transactional Messaging `00:00`
+- Outbox Pattern `01:20`
+- Outbox Implementation Factors `12:41`
+- Storage `14:55`
+  - Apache Parquet [Link](https://parquet.apache.org/) `16:30`
+- OLAP `17:25`
+- Columnar Storage `19:30`
+- Outbox Diagram `23:00`
+- Poller `35:00`
+  - Go Cron Package [Link](https://github.com/robfig/cron)
+- Map of Microservices **Site** [Link](https://microservices.io/patterns/index.html)
+- Mircoservices Patterns **Book** [Link](https://microservices.io/book)
+- Idempotent `59:55`
+- Event Lost = Zero `01:01:30`
+- Partition Tolerance `01:04:10`
+- Transaction log trailing `01:07:40`
